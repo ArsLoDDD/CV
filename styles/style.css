@@ -1,0 +1,53 @@
+.container {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+max-width: 800px;
+
+}
+
+.header {
+    border: none;
+    background-color: rgb(35, 23, 90);
+    width: 250px;
+    height: 60px;
+
+}
+
+.footer {
+    border: none;
+    background-color: rgb(35, 23, 90);
+    width: 520px;
+    height: 60px;
+    margin-left: 280px;
+    margin-top: 700px;
+}
+
+.contact {
+margin-left: 31px;
+margin-bottom: 600px;
+    color: rgb(73, 73, 73);
+}
+.skills {
+    margin-left: 31px;
+    color: rgb(73, 73, 73);
+}
+.maininfo {
+    font-size: 17px;
+    margin-left: 400px;
+max-width: 300px;
+}
+
+/*.lines {
+    border: none;
+    background-color: crimson;
+    width: 300px;
+    height: 2px;
+    margin-top: 500px;
+} */
+
+.name {
+    font-size: 15px;
+        margin-left: 31px;
+        color: rgb(78, 78, 117);
+}
